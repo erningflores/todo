@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+
+#Optional: If you ever have temporary build/dist folders
+#dist/
+#build/
+
+#Optional: OS-specific files
+.DS_Store #macOS
+Thumbs.db #Windows
